@@ -33,6 +33,4 @@
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmad-jilani-5563192bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saqib-hussain-82259a246/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/saqibhussain123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saqibhussain123" height="30" width="40" /></a>
-<a href="https://medium.com/@shkb2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shkb2003" height="30" width="40" /></a>
-<a href = 'https://www.github.com/saqibhussain789'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
