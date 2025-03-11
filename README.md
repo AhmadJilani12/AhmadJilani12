@@ -6,9 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqibhussain789&label=Profile%20views&color=0e75b6&style=flat" alt="saqibhussain789" /> </p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=saqibhussain789&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saqibhussain789&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibhussain789&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saqibhussain789&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
  
  ###  About Me
 
