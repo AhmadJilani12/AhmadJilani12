@@ -2,7 +2,7 @@
     <img width="200" src="https://chools.in/wp-content/uploads/f5.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Ahmad Jilani</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqibhussain789&label=Profile%20views&color=0e75b6&style=flat" alt="saqibhussain789" /> </p>
 
